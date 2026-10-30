@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE urlset [
-  <!ENTITY ge "INTERNAL_OK">
-]>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://0xeduardo.github.io/</loc></url>
   <url><loc>https://0xeduardo.github.io/page2.html</loc></url>
-  <url><loc>https://0xeduardo.github.io/probe?x=&ge;</loc></url>
+  <url><loc>https://0xeduardo.github.io/control-clean</loc></url>
 </urlset>
